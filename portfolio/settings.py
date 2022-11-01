@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-4&oc*k%p(@v3*u69g632^5-6_$lm=je20tr*%ly7i**^hwk=92
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1','portfolio-366914.nw.r.appspot.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1','portfolio-366914.nw.r.appspot.com','www.guillaume-ferreira.com','guillaume-ferreira.com']
 
 
 # Application definition

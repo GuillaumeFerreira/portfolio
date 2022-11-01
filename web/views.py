@@ -17,3 +17,8 @@ class Index(TemplateView):
             ['guillaumeferreira00@gmail.com'],
         )
         return HttpResponseRedirect(reverse_lazy("index"))
+
+
+class Saur(TemplateView):
+
+    template_name = "saur.html"
